@@ -1,7 +1,7 @@
 # Projects
 
 ## Designing Control System for Ion Traps & Zeeman Scan and Rabi Scan of Single Qubit
-_Mang Feng's Ion Trap Group, WIPM (Wuhan Institute of Physics and Mathematics) ,CAS (Chinese Academy of Sciences)
+_Mang Feng's Ion Trap Group, WIPM (Wuhan Institute of Physics and Mathematics) ,CAS (Chinese Academy of Sciences)_
 
 _March, 2019 -- June, 2019 & September, 2019-- Now_
 
