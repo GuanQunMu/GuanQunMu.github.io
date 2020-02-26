@@ -20,7 +20,7 @@
 
 
 
-# Skills
+## Skills
 20 k+ lines Python & Javascript Codes
 
 1 year+ FPGA Programing Experience (Verilog)
@@ -30,7 +30,7 @@
 2 years+ Physical Simulation Experience 
 
 
-# Research Experience
+## Research Experience
 
 **Designing Control System for Ion Traps & Zeeman Scan and Rabi Scan of Single Qubit**
 
