@@ -17,11 +17,11 @@
 
 
 #### **Designing Control System for Ion Traps & Realizing Zeeman Scan and Rabi Scan of a Single Qubit**
-Mang Feng's Ion Trap Group, Wuhan Institute of Physics and Mathematics (WIPM) ,Chinese Academy of Sciences (CAS)  
-_March, 2019 -- June, 2019 & September, 2019-- Now_
+**Mang Feng's Ion Trap Group, Wuhan Institute of Physics and Mathematics (WIPM) ,Chinese Academy of Sciences (CAS)  **
+**March, 2019 -- June, 2019 & September, 2019-- Now**
 
-Artiq is adopted by ion trap groups from NIST and Oxford as the control system of ion traps. Our group also adopted it for the operation of quantum information. As the main developer of Artiq in our group, I have designed functions that can implement zeeman scan and rabi scan for a single qubit. In addition, according to the experimental needs, I designed a personalized GUI.
-[_click here to see the github page of this project_](https://github.com/GuanQunMu/IonTrap-WIPM)
+Artiq is adopted by ion trap groups from NIST and Oxford as the control system of ion traps. Our group also adopted it for the operation of quantum information. As the main developer of Artiq in our group, I have designed functions that can implement zeeman scan and rabi scan for a single qubit. In addition, according to the experimental needs, I designed a personalized GUI.  
+[_click here to see its github page_](https://github.com/GuanQunMu/IonTrap-WIPM)
 
 <table border="0">
   <tr>
