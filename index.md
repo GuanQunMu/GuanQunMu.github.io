@@ -16,26 +16,28 @@
 ## **Research Experience**
 
 
-### **Designing Control System for Ion Traps & Realizing Zeeman Scan and Rabi Scan of a Single Qubit**
+### Designing Control System for Ion Traps & Realizing Zeeman Scan and Rabi Scan of a Single Qubit
 >Mang Feng's Ion Trap Group, Wuhan Institute of Physics and Mathematics (WIPM) ,Chinese Academy of Sciences (CAS)  
 March, 2019 -- Now
 
-Artiq is adopted by ion trap groups from NIST and Oxford as the control system of ion traps. Our group also adopted it for the operation of quantum information. As the main developer of Artiq in our group, I have designed functions that can implement zeeman scan and rabi scan for a single qubit. In addition, according to the experimental needs, I designed a personalized GUI.
-
-[_click here to see the github page of it_](https://github.com/GuanQunMu/IonTrap-WIPM)
+Artiq is adopted by ion trap groups from NIST and Oxford as the control system of ion traps. Our group also adopted it for the operation of quantum information. As the main developer of Artiq in our group, I used Python to design functions that can implement zeeman scan and rabi scan for a single qubit. In addition, according to the experimental needs, I designed a customized GUI py Python.
 
 <table border="0">
   <tr>
-    <td width="40%">
+    <td width="35%">
       <img src="/How_does _CS_work.png" width="100%">
-      <p>The structure of our control system based Artiq. </p>
+      <p>The structure of control system for ion traps based Artiq. </p>
     </td>
-    <td width="60%">
+    <td width="65%">
       <img src="/Dashboaed.png" width="100%">
-      <p>What shows on the PC.</p>
+      <p>The dashboard and customized GUI shows on the PC.</p>
     </td>
   </tr>
 </table>
+
+[click here to see the github page of it](https://github.com/GuanQunMu/IonTrap-WIPM)
+
+___
 
 **Time Tagging of Photons from Ion Traps**  
 Manas Mukherjee's Ion Trap Group, CQT, National University of Singapore (NUS)  
