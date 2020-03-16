@@ -5,9 +5,8 @@
     </td>
     <td width="65%">
       
-      <p>My name is Guanqun Mu (穆冠群). </p>
-      <p> I am studying for a B.Sc. degree at Physic Department, Wuhan University.</p>
-      <p>I am interested in quantum information science and technology. especially <b>ion trap model</b>(Experiement) and realization and simulation of <b>quantum error correction algorithm</b></p>
+      <p>I am Guanqun Mu, a Senior undergraduate student at Wuhan University, majoring in physics. </p>
+      <p>I am interested in <b>scalable quantum computing systems</b>, especially designing control systems of an ion traps, and simulation of physical processes in quantum computing models. </p>
     </td>
   </tr>
 </table>
