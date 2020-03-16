@@ -49,7 +49,7 @@ ___
 >Manas Mukherjee's Ion Trap Group, CQT, National University of Singapore (NUS)  
  June, 2019 -- September, 2019
 
-With FPGA Programing (Verilog) and Python, I designed a system that can tag the time of photons emitted from ion traps. On the PC side, the GUI is made by Python, and the communication between the PC and FPGA uses the JTAG protocol ,which is realized by Python. On the FPGA side, through Verilog and Quartus, I implemented FPGA programming to collect and store the data of the emission time of each photon emitted from ion traps.
+With FPGA Programing (Verilog) and Python, I designed a system that can tag the time of photons emitted from ion traps. On the PC side, I made the GUI by Python, and implement communication between the PC and the FPGA with the JTAG protocol ,which is realized by Python. On the FPGA side, through Verilog and Quartus, I designed programs to collect, analyse and store the data of TTL signals from PMT. By comparing signals from the PMT with signals of PLLs, the system can tag the time when the photons are emitted from the ion traps.
 
 <table border="0">
   <tr>
@@ -60,7 +60,7 @@ With FPGA Programing (Verilog) and Python, I designed a system that can tag the 
   </tr>
 </table>
 
-This figure shows What happens in FPGA: From the binary bit string transmitted by the JTAG protocol on the far left, the data passes through the translator to determine when to end the experiment. In the meanwhile, the signal from the PLL passes through the counter to determine the current time, waiting for the signal in the PMT to trigger.
+This figure shows how does the system work in FPGA: From the binary bit string transmitted by the JTAG protocol on the far left, the data passes through the translator to determine when to end the experiment. In the meanwhile, the signal from the PLL passes through the counter to determine the current time, waiting for the signal in the PMT to trigger.
 
 ___
 
