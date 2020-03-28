@@ -26,13 +26,12 @@ March, 2019 -- Now
 
 <table border="0">
   <tr>
-    <td width="42%">
-      <img src="/How_does _CS_work.png" width="100%">(a)
-      <img src="/Dashboaed.png" width="100%">
-      
+    <td width="30%">
+      <img src="/rabi.png" width="100%">(a)
+      <img src="/How_does _CS_work.png" width="100%">(b)
     </td>
     <td width="58%">
-      <img src="/Dashboaed.png" width="100%">(b)
+      <img src="/Dashboaed.png" width="100%">(c)
       
     </td>
   </tr>
