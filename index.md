@@ -49,8 +49,10 @@ ___
 ### **Time Tagging of Photons emitted from Ion Traps**  
 >Manas Mukherjee's Ion Trap Group, CQT, National University of Singapore (NUS)  
  June, 2019 -- September, 2019
+ 
+As one of the solutions for particles constrained in a secondary potential well, the coherent state, witch approximates the classical trajectory, can be made and detected in an ion trap. To detect the coherent state, ones should apply a laser at a specific position, and tag the time of the photon emitted by the excited ion when the wave packet moves to the same position. If there is a gap period between the time when the state is created and the time when photons are detected, the coherent state is successfully created.
 
-With FPGA Programing (Verilog) and Python, I designed a system that can tag the time of photons emitted from ion traps. On the PC side, I made the GUI by Python, and implement communication between the PC and the FPGA with the JTAG protocol ,which is realized by Python. On the FPGA side, through Verilog and Quartus, I designed programs to collect, analyse and store the data of TTL signals from PMT. By comparing signals from the PMT with signals of PLLs, the system can tag the time when the photons are emitted from the ion traps.
+It required an experimental control system to achieve it. With FPGA Programing (Verilog) and Python, I designed a system that can tag the time of photons emitted from ion traps. On the PC side, I made the GUI by Python, and implement communication between the PC and the FPGA with the JTAG protocol. On the FPGA side, through Verilog and Quartus, I designed programs to collect, analyse and store the data of TTL signals from PMT. By comparing signals from the PMT with signals of PLLs, the system can tag the time when the photons are emitted from the ion traps.
 
 <table border="0">
   <tr>
@@ -63,7 +65,7 @@ With FPGA Programing (Verilog) and Python, I designed a system that can tag the 
     </td>
   </tr>
 </table>
-(a) Figure from Wikipedia. Time evolution of the probability distribution with quantum phase of a coherent state with α=3. (b) The FPGA program: From the binary bit string transmitted by the JTAG protocol on the far left, the data passes through the translator to determine when to end the experiment. In the meanwhile, the signal from the PLL passes through the counter to determine the current time, waiting for the signal in the PMT to trigger.
+(a)  Time evolution of the probability distribution with quantum phase of a coherent state with α=3(the picture is from Wikipedia). (b) The FPGA program: From the binary bit string transmitted by the JTAG protocol on the far left, the data passes through the translator to determine when to end the experiment. In the meanwhile, the signal from the PLL passes through the counter to determine the current time, waiting for the signal in the PMT to trigger.
 
 ___
 
