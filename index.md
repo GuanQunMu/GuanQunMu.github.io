@@ -64,7 +64,7 @@ It required an experimental control system to achieve it. With FPGA Programing (
     </td>
   </tr>
 </table>
-(a)  Time evolution of the probability distribution with quantum phase of a coherent state with α=3(the picture is from Wikipedia). (b) The FPGA program: From the binary bit string transmitted by the JTAG protocol on the far left, the data passes through the translator to determine when to end the experiment. In the meanwhile, the signal from the PLL passes through the counter to determine the current time, waiting for the signal in the PMT to trigger.
+(a)  Time evolution of the probability distribution with quantum phase of a coherent state with α=3(the picture is from Wikipedia). (b) The FPGA program: The binary bit string transmitted by the JTAG protocol can determine when to end the experiment; the signal from the PLL passes through the counter to determine the current time, waiting for the signal in the PMT to trigger.
 
 ___
 
