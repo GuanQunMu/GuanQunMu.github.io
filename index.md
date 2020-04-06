@@ -102,7 +102,8 @@ ___
 January, 2020 -- Now
 
 Temporarily suspended because of the outbreak of COVID-19. To be continued ......  
-Don't worry, I'm healthy now :)
+
+PS: I'm healthy now. Don't worry about me :)
 
 ___
 
