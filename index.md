@@ -20,7 +20,7 @@
 >Mang Feng's Ion Trap Group, Wuhan Institute of Physics and Mathematics (WIPM) ,Chinese Academy of Sciences (CAS)  
 March, 2019 -- Now
 
-  Applied by a laser with the rabi frequency, a two-level ion will continuously oscillates between levels. Ones can control the quantum gate acting on a qubit by setting the rabi oscillation time, which is called the rabi scan. An control system is required to achieve it. Artiq is adopted by ion trap groups from NIST and Oxford University as the control system of ion traps. It integrates FPGA, AOM and DDS, and can control experimental processes through Python. 
+  Applied by a laser with the rabi frequency, a two-level ion will continuously oscillates between levels. Ones can control the quantum gate acting on a qubit by setting the rabi oscillation time, which is called the rabi scan. An control system is required to achieve it. ARTIQ was initiated by the Ion Storage Group at NIST as the control system of ion traps. It integrates FPGA, AOM and DDS, and can control experimental processes through Python. 
   
   In our group, as the main developer of the control system based on Artiq, I designed functions that can implement rabi scan and zeeman scan for qubits and paluse shaping for DDS to Reduce AC-Stark effect. In addition, to facilitate the experimental process, I made a custom GUI by Python.
 
