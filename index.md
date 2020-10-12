@@ -20,7 +20,7 @@
 >Mang Feng's Ion Trap Group, Wuhan Institute of Physics and Mathematics (WIPM), Chinese Academy of Sciences (CAS), P. R. China  
 March, 2019 -- Now
 
-  Applied by a laser with the rabi frequency, a two-level ion will continuously oscillates between the ground state and the emitted state. Ones can achieve the quantum gate acting on a qubit by setting the rabi oscillation time, and this is called the rabi scan. An control system is essential to do it. We used The ARTIQ, which was initiated by the Ion Storage Group at NIST, as the control system for our experiements. It integrates FPGA, AOM and DDS, and one can design the experienment through Python. 
+  Applied by a laser with the rabi frequency, a two-level ion will continuously oscillates between the ground state and the excited state. Ones can achieve the quantum gate acting on a qubit by setting the rabi oscillation time, and this is called the rabi scan. An control system is essential to do it. We used The ARTIQ, which was initiated by the Ion Storage Group at NIST, as the control system for our experiements. It integrates FPGA, AOM and DDS, and one can design the experienment through Python. 
   
   In our group, as the main developer of the control system based on Artiq, I designed functions such as zeeman scan, rabi scan, AWG controling, spin echo and quantum Lock-in amplifier in the futher. In addition, to customize the experimental process, I redesigned the GUI by Python.
 
