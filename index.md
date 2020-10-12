@@ -5,7 +5,7 @@
     </td>
     <td width="65%">
       
-      <p> I am Guanqun Mu ,currently an undergraduate student at Wuhan University, Hubei, P R China. My major subject is physics and I am expected to graduate in summer 2020. </p>
+      <p> I am Guanqun Mu ,an undergraduate student at Wuhan University, Hubei, P R China. My major subject is physics, and I graduated in summer 2020. </p>
       <p>I am keenly interested to peruse my Masters and Doctorate in scalable quantum computing systems. My interest currently meets in <b>quantum information process in ion traps</b> and <b>simulation of physical processes in quantum computing models</b>.</p>
       <p>Therefore, in regard to get excel in the after mentioned research filed I have tried my best to participated in different ion trap groups. A short detail is as given below. </p>
     </td>
@@ -16,13 +16,13 @@
 ## **Research Experience**
 
 
-### **1. Designing the Control System for Rabi Scan and Zeeman Scan of qubits in Ion Traps**
+### **1. Designing the Control System for Zeeman Scan, Rabi Scan and Spin Echo opreating of Ca+ qubits in Ion Traps**
 >Mang Feng's Ion Trap Group, Wuhan Institute of Physics and Mathematics (WIPM), Chinese Academy of Sciences (CAS), P. R. China  
 March, 2019 -- Now
 
-  Applied by a laser with the rabi frequency, a two-level ion will continuously oscillates between levels. Ones can control the quantum gate acting on a qubit by setting the rabi oscillation time, which is called the rabi scan. An control system is required to achieve it. ARTIQ was initiated by the Ion Storage Group at NIST as the control system of ion traps. It integrates FPGA, AOM and DDS, and can control experimental processes through Python. 
+  Applied by a laser with the rabi frequency, a two-level ion will continuously oscillates between the ground state and the emitted state. Ones can achieve the quantum gate acting on a qubit by setting the rabi oscillation time, and this is called the rabi scan. An control system is essential to do it. We used The ARTIQ, which was initiated by the Ion Storage Group at NIST, as the control system for our experiements. It integrates FPGA, AOM and DDS, and one can design the experienment through Python. 
   
-  In our group, as the main developer of the control system based on Artiq, I designed functions that can implement rabi scan and zeeman scan for qubits and paluse shaping for DDS to Reduce AC-Stark shifts. In addition, to facilitate the experimental process, I made a custom GUI by Python.
+  In our group, as the main developer of the control system based on Artiq, I designed functions such as zeeman scan, rabi scan, AWG controling, spin echo and quantum Lock-in amplifier in the futher. In addition, to customize the experimental process, I redesigned the GUI by Python.
 
 <table border="0">
   <tr>
