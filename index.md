@@ -75,7 +75,7 @@ July, 2018 -- January, 2019
 
 The fault-tolerant quantum computing, which is the next step of quantum computing, requires quantum error correction algorithm. One of its candidate is surface code, with the property that the logical fidelity can be improved as the number of physical qubits involved increases. However, it works only with the fidility of physical qubits gate under the threshold.
 
-In order to find the threshold, I designed a program in javascript to simulate the surface code and toric code, explored their thresholds under specific conditions, and verified the properties :The fidelity of logic gates will be improved as the size of the qubits increases when its logical error rate is below the threshold.
+In order to find the threshold, I designed a program in javascript to simulate the surface code and toric code, explored their thresholds under specific conditions, and verified the properties: The fidelity of logic gates will be improved as the size of the qubits increases when its physical qubits error rate is under the threshold.
 
 <table border="0">
   <tr>
