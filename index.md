@@ -39,7 +39,7 @@ March, 2019 -- Now
 
 <small>(a) Interacting with the 729 nm wave length laser, the Ca + ion oscillate between the ground state and the D5/2 state. (b) Structure of our control system for ion traps based on artiq. (c) A preview of the dashboard and customized GUI shown on the PC. </small>
 
-Click here to see the github page of our contorl system and use it: [https://github.com/GuanQunMu/IonTrap-WIPM](https://github.com/GuanQunMu/IonTrap-WIPM)
+If you want to know about the details or to use this project in your experienment, please click here to see the github page of it: [https://github.com/GuanQunMu/IonTrap-WIPM](https://github.com/GuanQunMu/IonTrap-WIPM)
 
 ___
 
@@ -93,7 +93,7 @@ I designed a program in javascript to simulate the operation of the surface code
 
 <small>(a) A two-dimensional array implementation of the surface code. (b) The fidelity of one logical qubit array. The x-axis represents the error rate of the logic gate, and the y represents the number of errors in 100,000 Monte Carlo samples. Different colors represent different array sizes. It can be found that the threshold is 0.105.</small>
 
-Click here to see the Github page of this project and use my surface code program: [https://github.com/GuanQunMu/Surface-Code](https://github.com/GuanQunMu/Surface-Code)
+If you want to know about the details or to run the surface code with this project, please click here to see the github page of it: [https://github.com/GuanQunMu/Surface-Code](https://github.com/GuanQunMu/Surface-Code)
 
 ___
 
@@ -117,12 +117,14 @@ ___
 ___
 
 ## **Language**
-
 English (TOEFL IBT):  
 reading **(29)** / listening **(22)** / speaking **(19)**( the best in history **21**) / writing **(22)**
 
 Mandarin:  
 Native Speaker 
+
+___
+
 
 ## **Contact**
 
